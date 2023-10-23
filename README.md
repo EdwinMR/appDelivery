@@ -6,6 +6,4 @@
 
 1. Clonar proyecto
 2. ```npm install```
-6. Levantar: ```npm start```
-
-7. Ejecutar init para cargar usuarios y roles por default
+3. Levantar: ```npm start```
